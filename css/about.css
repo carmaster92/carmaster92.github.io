@@ -1,0 +1,15 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0%;
+}
+
+.mindesc {
+    margin-top: 125px;
+    color: white;
+    text-align: center;
+}
+
+.maxdesc {
+    color: white;
+    text-align: center;
+}
