@@ -1,0 +1,50 @@
+body {
+    margin: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(20, 182, 160);
+    scroll-behavior: smooth;
+}
+
+.navbaritem {
+    display: inline-block;
+}
+
+.navbaritem a {
+    color: rgb(20, 182, 160);
+    padding: 20px;
+    text-decoration: none;
+}
+
+header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+}
+
+#navbartitle {
+    margin-right: 763px;
+}
+
+
+
+
+
+
+
+
+
+
+.footer {
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    background-color: transparent;
+}
+
+.footerparagraph {
+    color: white;
+}

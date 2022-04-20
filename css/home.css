@@ -1,0 +1,20 @@
+body {
+    margin: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    scroll-behavior:auto;
+}
+
+.mindesc {
+    margin-top: 125px;
+    text-align: center;
+    color: #fff;
+}
+
+.maxdesc {
+    text-align: center;
+    color: #fff;
+}
+
+.ytv {
+    align-items: center;
+}
